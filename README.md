@@ -1,4 +1,6 @@
 qt_ini
 ======
 
-ini test
+my Qt test
+
+from arm...
